@@ -56,5 +56,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Girl GIF"/>
+  <img src="https://media.giphy.com/media/LoN5CmPj7vUde/giphy.gif" width="350" alt="Coding Girl GIF"/>
 </div>
