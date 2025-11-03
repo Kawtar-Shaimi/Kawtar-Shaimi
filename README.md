@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E80956&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+SALMA+HAMDI;I'm+a+Full+Stack+Developer+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E80956&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+KAWTAR+SHAIMI;I'm+a+Full+Stack+Developer+:%29)](https://git.io/typing-svg)
 
 <h3 align="center">A future-focused developer eager to learn</h3>
 
@@ -14,7 +14,7 @@
   <img align="right" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" height="230"  alt="Programming GIF" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/salma-hamdi-4b66472a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kawtar-Shaimi-4b66472a1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Kawtar-Shaimi-4b66472a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kawtar-Shaimi-4b66472a1" height="30" width="40" /></a>
 </p> 
 <br/> 
 <h3 align="left">Languages and Tools:</h3>
