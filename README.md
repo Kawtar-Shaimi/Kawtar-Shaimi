@@ -1,60 +1,94 @@
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E80956&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+SALMA+HAMDI;I'm+a+Full+Stack+Developer+:%29)](https://git.io/typing-svg)
 
-# <span style="color:#e75480;">Hi, I'm KAWTAR SHAIMI</span> 👋
+<h3 align="center">A future-focused developer eager to learn</h3>
 
-**A passionate developer eager to learn and create!**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kawtar-Shaimi&label=Profile%20views&color=0e75b6&style=flat" alt="Kawtar-Shaimi" /> </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=Kawtar-Shaimi&style=flat-square&color=blue)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kawtar-Shaimi" alt="Kawtar-Shaimi" /></a> </p>
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Kawtar-Shaimi&theme=gruvbox&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+- 🌱 I’m currently learning **Spring Boot**
 
-</div>
+- 📫 How to reach me **kawtar.shaimi8@gmail.com**
 
----
+- ⚡ Fun fact **My best coding sessions happen with headphones on and the music turned up! 🎵**
+  <img align="right" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" height="230"  alt="Programming GIF" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/salma-hamdi-4b66472a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kawtar-Shaimi-4b66472a1" height="30" width="40" /></a>
+</p> 
+<br/> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <!-- C -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
 
-## 🌱 About Me
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+  </a>
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+  </a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <!-- PHP -->
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
 
-- 👩‍💻 I’m currently learning **django** and modern web technologies
-- 📫 How to reach me: kawtar.shaimi8@gmail.com
-- ⚡ Fun fact: I love coding with music and coffee ☕🎶
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <!-- Jira -->
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
+  </a>
+  <!-- Trello -->
+  <a href="https://trello.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
+  </a>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kawtar-Shaimi&show_icons=true&theme=radical" alt="stats github"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kawtar-Shaimi&theme=radical" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawtar-Shaimi&layout=compact&theme=radical" alt="top langs"/>
+<br/> <br/> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saalmahm&" alt="saalmahm" /> <h3 > </h3>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saalmahm&show_icons=true&locale=en&layout=compact" alt="saalmahm" />
 </p>
-
----
-
-## 📫 Connect with me
-
-<p align="center">
-  <a href="mailto:kawtar.shaimi8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kawtar-shaimi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LoN5CmPj7vUde/giphy.gif" width="350" alt="Coding Girl GIF"/>
-</div>
