@@ -62,7 +62,6 @@
 ### ⚙️ GitHub Analytics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kawtar-Shaimi&show_icons=true&theme=radical" alt="Kawtar's GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kawtar-Shaimi&theme=radical" alt="Kawtar's streak" />
 </p>
 
 <p align="center">
