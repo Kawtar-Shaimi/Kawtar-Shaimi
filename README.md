@@ -2,26 +2,66 @@
 
 <h3 align="center">A future-focused developer eager to learn</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kawtar-Shaimi&label=Profile%20views&color=0e75b6&style=flat" alt="Kawtar-Shaimi" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Kawtar-Shaimi&label=Profile%20views&color=0e75b6&style=flat" alt="Kawtar-Shaimi" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kawtar-Shaimi" alt="Kawtar-Shaimi" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kawtar-Shaimi" alt="Kawtar-Shaimi" />
+  </a> 
+</p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **kawtar.shaimi8@gmail.com**
 
 - ⚡ Fun fact **My best coding sessions happen with headphones on and the music turned up! 🎵**
-  <img align="right" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" height="230"  alt="Programming GIF" />
+
+  <img align="right" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" height="230" alt="Programming GIF" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Kawtar-Shaimi-4b66472a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kawtar-Shaimi-4b66472a1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Kawtar-Shaimi-4b66472a1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kawtar-Shaimi-4b66472a1" height="30" width="40" />
+</a>
 </p> 
+
 <br/> 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <!-- Laravel -->
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/>
+  </a>
+  <!-- Spring -->
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <!-- Spring Boot -->
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/>
+  </a>
+  <!-- FastAPI -->
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+  <!-- H2 Database -->
+  <a href="https://www.h2database.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.h2database.com/html/images/h2-logo-2.png" alt="h2database" width="40" height="40"/>
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -55,7 +95,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
@@ -72,7 +111,6 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
-
   <!-- Postman -->
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -87,8 +125,9 @@
   </a>
 </p>
 
+<br/><br/>
 
-<br/> <br/> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kawtar-Shaimi&" alt="Kawtar-Shaimi" /> <h3 > </h3>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kawtar-Shaimi&" alt="Kawtar-Shaimi" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kawtar-Shaimi&show_icons=true&locale=en&layout=compact" alt="Kawtar-Shaimi" />
 </p>
